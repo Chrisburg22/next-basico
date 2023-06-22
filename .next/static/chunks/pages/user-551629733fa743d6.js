@@ -1,1 +1,0 @@
-(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[235],{8948:function(n,u,e){(window.__NEXT_P=window.__NEXT_P||[]).push(["/user",function(){return e(4944)}])},4944:function(n,u,e){"use strict";e.r(u);var _=e(5893);e(7294);let t=()=>(0,_.jsx)("div",{children:"User page"});u.default=t}},function(n){n.O(0,[774,888,179],function(){return n(n.s=8948)}),_N_E=n.O()}]);
