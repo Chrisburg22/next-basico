@@ -15,9 +15,9 @@ const Navbar = () => {
                     ya que permite que el navegador no se recarge, por lo cual la aplicación es más
                     rapida para navegar
                 */}
-                <Link href='/'>Home</Link>
-                <Link href='/about'>About</Link>
-                <Link href={'/user'}>User</Link>
+                <Link href='/' prefetch={false}>Home</Link>
+                <Link href='/about' prefetch={false}>About</Link>
+                <Link href='/user' prefetch={false}>User</Link>
             </menu>
         </nav>
   )
